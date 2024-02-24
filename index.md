@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a master student at University of Texas Rio Grande Valley (https://www.utrgv.edu/), majoring Electrical Engineering at 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **FEDERATED LEARNING:** Communication-Efficiency, Privacy-Preservation, Byzantine-Robustness and Fairness in Decentralized
+Federated Learning.
+- **COMPUTER VISION:** Unsupervised Visual Representation Learning, Contrastive Learning.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2020]** I am selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
 
 {% include_relative _includes/publications.md %}
 
