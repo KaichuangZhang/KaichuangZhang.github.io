@@ -8,12 +8,12 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">ICRL PML workshop</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Communication-Efficient Privacy-Preserving and Byzantine-Robust Decentralized Federated Learning</a></div>
+    <div class="author"><strong>Kaichuang Zhang</strong>, Long Jiao, Ping Xu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
