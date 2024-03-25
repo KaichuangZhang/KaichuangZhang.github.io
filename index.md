@@ -3,17 +3,17 @@ layout: homepage
 ---
 
 ## About Me
+I am a master's student at [the University of Texas Rio Grande Valley](https://www.utrgv.edu/), majoring in Electrical Engineering in [Department of Electrical and Computer Engineering](https://www.utrgv.edu/ece/). Before UTRGV, I worked as a research developer at ISCAS(BeiJing) and Baidu(BeiJing) for about three years, giving me industrial AI experience. My last school study was [at Beijing University of Technology](https://www.bjut.edu.cn/), where I obtained my first master's degree, majoring in Computer Technology. I am focusing on Communication-Efficiency, Privacy-Preservation, Byzantine-Robustness, and Fairness of Decentralized Federated Learning, following in [Dr.Ping Xu](https://sites.google.com/view/ping-xu-utrgv/home). For my long-term goal (my whole life), I want to use AI to benefit humankind and every human being, especially those in need.
 
-I am a master student at [University of Texas Rio Grande Valley](https://www.utrgv.edu/), majoring Electrical Engineering in [Department of Electrical and Computer Engineering](https://www.utrgv.edu/ece/). Before UTRGV, I worked as a Research Developer at ISCAS(BeiJing) and Baidu(BeiJing) for about 3 years, which this give me a industrial experience on AI. And, my last school study was [Beijing University of Technology](https://www.bjut.edu.cn/) which I obtained my first one master degree majoring in Computer Technology. Now, I am focus on Communication-Efficiency, Privacy-Preservation, Byzantine-Robustness and Fairness of  Decentalized Federated Learning, following in [Dr.Ping Xu](https://sites.google.com/view/ping-xu-utrgv/home). For my long term goal (my whole life), I want use AI to benefit mankind, anyone human being, especially those in need.
 ## Research Interests
 
-- **FEDERATED LEARNING:** Communication-Efficiency, Privacy-Preservation, Byzantine-Robustness and Fairness in Decentralized
-Federated Learning.
+- **FEDERATED LEARNING:** Privacy/Robustness/Fairness in Federated Learning.
 - **COMPUTER VISION:** Unsupervised Visual Representation Learning, Contrastive Learning.
 
 ## News
 
-- **[Feb. 2023]** I am selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
-- **[Sep. 2023]** I received Presidential Research Fellowship of EECE in UTRGV, and will start my research in UTRGV from 2023 Fall semester.
+- **[Feb. 2023]** I have been selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
+
+- **[Sep. 2023]** I received a Presidential Research Fellowship of EECE at UTRGV and will start my research there in the Fall semester of 2023.
 
 {% include_relative _includes/publications.md %}
