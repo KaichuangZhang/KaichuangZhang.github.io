@@ -1,3 +1,11 @@
+<!--
+ * @Author: zhangkaichuang zhangkaichuang2022@163.com
+ * @Date: 2024-02-24 13:41:18
+ * @LastEditors: zhangkaichuang zhangkaichuang2022@163.com
+ * @LastEditTime: 2024-04-20 12:46:13
+ * @FilePath: /Research/mycode/my_research/KaichuangZhang.github.io/index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE**
+-->
 ---
 layout: homepage
 ---
@@ -12,8 +20,8 @@ I am a master's student at [the University of Texas Rio Grande Valley](https://w
 
 ## News
 
-- **[Feb. 2023]** I have been selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
-
+- **[Apr. 2024]** Our abstract entitled “Robust Decentralized Federated Learning Against both Distributional Shifts and Byzantine Attacks” has been accepted for a poster presentation at ICORS meets DSSV 2024.
+- **[Feb. 2024]** I have been selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
 - **[Sep. 2023]** I received a Presidential Research Fellowship of EECE at UTRGV and will start my research there in the Fall semester of 2023.
 
 {% include_relative _includes/publications.md %}
