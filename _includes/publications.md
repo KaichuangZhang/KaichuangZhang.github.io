@@ -12,11 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Decentralized Federated Learning under Meta Learning</a></div>
-    <div class="author"><strong>Kaichuang Zhang</strong>, Ping Xu</div>
+    <div class="title"><a href="../assets/files/Decentralized Federated Learning for Meta Computing.pdf">Decentralized Federated Learning under Meta Learning </a></div>
+    <div class="author"><strong>Kaichuang Zhang</strong>, Ping Xu, Zhi Tian</div>
     <div class="periodical"><em>IEEE/CVF Conference on Meta Computing<strong>(ICMC)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(Abstract)</a>
       <!--
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
