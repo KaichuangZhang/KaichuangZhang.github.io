@@ -8,11 +8,11 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/dfl_workflow.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICMC 2024 (in process)</abbr>
+    <abbr class="badge">ICMC 2024 (Accepted)</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="../assets/files/Decentralized Federated Learning for Meta Computing.pdf">Decentralized Federated Learning under Meta Learning </a></div>
+    <div class="title"><a href="../assets/files/Decentralized Federated Learning for Meta Computing.pdf">Decentralized Federated Learning for Meta Learning </a></div>
     <div class="author"><strong>Kaichuang Zhang</strong>, Ping Xu, Zhi Tian</div>
     <div class="periodical"><em>IEEE/CVF Conference on Meta Computing<strong>(ICMC)</strong>, 2024.</em></div>
     <div class="links">
