@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me (Kaichuang Zhang 张开创)
 I am currently pursuing a Master’s degree in Electrical Engineering at the [University of Texas Rio Grande Valley](https://www.utrgv.edu/), within the [Department of Electrical and Computer Engineering](https://www.utrgv.edu/ece/). 
-**(industrial and research experience)** Prior to my studies at UTRGV, I gained valuable industrial AI experience working as a research developer at ISCAS (Beijing) and Baidu (Beijing) for three years. **(education)** I previously earned my first Master’s degree in Computer Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) **(Professional goals)** I am passionate about the field of AI and am open to exploring various research areas within this domain.
+**(Industrial and Research)** Prior to my studies at UTRGV, I gained valuable industrial AI experience working as a research developer at ISCAS (Beijing) and Baidu (Beijing) for three years. **(Education)** I previously earned my first Master’s degree in Computer Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) **(Professional Goals)** I am passionate about the field of AI and am open to exploring various research areas within this domain. 
 
 ## Research Interests
 
