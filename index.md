@@ -1,17 +1,10 @@
-<!--
- * @Author: zhangkaichuang zhangkaichuang2022@163.com
- * @Date: 2024-02-24 13:41:18
- * @LastEditors: zhangkaichuang zhangkaichuang2022@163.com
- * @LastEditTime: 2024-05-17 02:38:59
- * @FilePath: /Research/mycode/my_research/KaichuangZhang.github.io/index.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 layout: homepage
 ---
 
-## About Me
-I am a master's student at [the University of Texas Rio Grande Valley](https://www.utrgv.edu/), majoring in Electrical Engineering in [Department of Electrical and Computer Engineering](https://www.utrgv.edu/ece/). Before UTRGV, I worked as a research developer at ISCAS(BeiJing) and Baidu(BeiJing) for about three years, giving me industrial AI experience. My last school study was [at Beijing University of Technology](https://www.bjut.edu.cn/), where I obtained my first master's degree, majoring in Computer Technology. I am focusing on Communication-Efficiency, Privacy-Preservation, Byzantine-Robustness, and Fairness of Decentralized Federated Learning, following in [Dr.Ping Xu](https://sites.google.com/view/ping-xu-utrgv/home). For my long-term goal, I want to use AI to benefit humankind and every human being, especially those in need.
+## About Me (Kaichuang Zhang 张开创)
+I am currently pursuing a Master’s degree in Electrical Engineering at the [University of Texas Rio Grande Valley](https://www.utrgv.edu/), within the [Department of Electrical and Computer Engineering](https://www.utrgv.edu/ece/). 
+**(industrial and research experience)** Prior to my studies at UTRGV, I gained valuable industrial AI experience working as a research developer at ISCAS (Beijing) and Baidu (Beijing) for three years. **(education)** I previously earned my first Master’s degree in Computer Technology from [Beijing University of Technology](https://www.bjut.edu.cn/) **(Professional goals)** I am passionate about the field of AI and am open to exploring various research areas within this domain.
 
 ## Research Interests
 
