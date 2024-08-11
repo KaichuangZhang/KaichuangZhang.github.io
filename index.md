@@ -15,8 +15,8 @@ I am a master's student at [the University of Texas Rio Grande Valley](https://w
 
 ## Research Interests
 
-- **FEDERATED LEARNING:** Privacy/Robustness/Fairness in Federated Learning.
-- **COMPUTER VISION:** Unsupervised Visual Representation Learning, Contrastive Learning.
+- **Federated Learning:** Federated Learning: Security(Attack & Defense), Robustness and Fairness;
+- **Crossing AI with Other Fields:** Computer Vision, Robotics, IoT, and More.
 
 ## News
 
