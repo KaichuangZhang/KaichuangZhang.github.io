@@ -12,7 +12,8 @@ I am currently pursuing a Master’s degree in Electrical Engineering at the [Un
 - **Crossing AI with Other Fields:** Computer Vision, Robotics, IoT, and More.
 
 ## News
-
+- **[Aug. 2024]** Our papr 'Byzantine-Robust Decentralized Federated Learning via Local Performance Checking' has been accepted for presentation at ICONIP2024.
+- **[Jul. 2024]** Our poster 'Robust Decentralized Federated Learning Against both Distributional Shifts and Byzantine Attacks' presented at ICORS meets DSSV 2024.
 - **[May. 2024]** Our paper 'Decentralized Federated Learning for Meta Computing' has been accepted to appear in IEEE ICMC 2024. 
 - **[Apr. 2024]** Our abstract entitled 'Robust Decentralized Federated Learning Against both Distributional Shifts and Byzantine Attacks' has been accepted for a poster presentation at ICORS meets DSSV 2024.
 - **[Feb. 2024]** I have been selected as CECS Outstanding Graduate Student of 2023 at UTRGV!  
